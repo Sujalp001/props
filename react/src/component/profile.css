@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(90, 219, 241);
+}
+/* profile.css */
+
+.UserProfile {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .UserProfile h2 {
+    color: #333;
+  }
+  
+  .UserProfile p {
+    color: #555;
+  }
+  
+  .UserProfile strong {
+    font-weight: bold;
+  }
+  
